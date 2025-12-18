@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/R._Bangla_transparent_PNG.png?20210822083806" group-title="©ADP Network",R Bangla
 https://tvsen5.aynaott.com/R_Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/aakash-aath-tv-logo.png" group-title="https://fanzone-omega.vercel.app/",Akash Aath
-https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png?20161119222655" group-title="AynaOTT - Indian News",News India
 https://tvsen5.aynaott.com/NewsIndia24x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="AynaOTT - Islamic",Peace TV
@@ -111,3 +109,4 @@ https://tvsen6.aynaott.com/aakaashBangla/index.m3u8
 https://tvsen6.aynaott.com/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png?20251118104617" group-title="AynaOTT - Indian ENT",Sangeet Bangla
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+
